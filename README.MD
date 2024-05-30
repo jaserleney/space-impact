@@ -25,7 +25,7 @@ En Space Impact, el jugador controla una nave espacial y debe derrotar a una hor
 3. Ejecuta el juego:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 ## Controles
